@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Click on link to see in action
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+https://ig-clone-958ea.web.app/
 
 ## Available Scripts
 
